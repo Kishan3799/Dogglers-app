@@ -1,0 +1,40 @@
+com.example.dogglers.app-transition-1.2.0-0 C:\Users\Kishan\.gradle\caches\transforms-3\07a81837f893785386f68c24e13dc474\transformed\transition-1.2.0\res
+com.example.dogglers.app-cardview-1.0.0-1 C:\Users\Kishan\.gradle\caches\transforms-3\0aea360859b30b8b74133eb75ae90882\transformed\cardview-1.0.0\res
+com.example.dogglers.app-jetified-lifecycle-runtime-ktx-2.5.1-2 C:\Users\Kishan\.gradle\caches\transforms-3\0b1943e0b5d4668415aada6795a334d2\transformed\jetified-lifecycle-runtime-ktx-2.5.1\res
+com.example.dogglers.app-drawerlayout-1.1.1-3 C:\Users\Kishan\.gradle\caches\transforms-3\0ef3b58df62dd73ed6b181dc4db4ca49\transformed\drawerlayout-1.1.1\res
+com.example.dogglers.app-jetified-lifecycle-livedata-core-ktx-2.5.1-4 C:\Users\Kishan\.gradle\caches\transforms-3\1b2a8dfe6e9fea8f82097b04db95f203\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\res
+com.example.dogglers.app-jetified-savedstate-1.2.0-5 C:\Users\Kishan\.gradle\caches\transforms-3\2b6785b4ede763bdab2b9e64e4fb9ce9\transformed\jetified-savedstate-1.2.0\res
+com.example.dogglers.app-fragment-1.5.3-6 C:\Users\Kishan\.gradle\caches\transforms-3\2cff026dd68472360cf62e0aa08e2957\transformed\fragment-1.5.3\res
+com.example.dogglers.app-jetified-fragment-testing-1.5.3-7 C:\Users\Kishan\.gradle\caches\transforms-3\3bb4ef7d18f1d66cd5a6af269977bbcc\transformed\jetified-fragment-testing-1.5.3\res
+com.example.dogglers.app-jetified-activity-1.5.1-8 C:\Users\Kishan\.gradle\caches\transforms-3\42cf157e2202efcd25d9d1d7ddaab936\transformed\jetified-activity-1.5.1\res
+com.example.dogglers.app-lifecycle-viewmodel-2.5.1-9 C:\Users\Kishan\.gradle\caches\transforms-3\44f04fbe569e7fa940fb9c81fcd966b8\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.dogglers.app-jetified-viewpager2-1.0.0-10 C:\Users\Kishan\.gradle\caches\transforms-3\519b6765dbff7350ee988b7f48a5f8d1\transformed\jetified-viewpager2-1.0.0\res
+com.example.dogglers.app-jetified-emoji2-views-helper-1.2.0-11 C:\Users\Kishan\.gradle\caches\transforms-3\62a7984701f8880fd5abc99413329c87\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.dogglers.app-material-1.6.1-12 C:\Users\Kishan\.gradle\caches\transforms-3\62e60158e12f6897a99dd867cb79df43\transformed\material-1.6.1\res
+com.example.dogglers.app-lifecycle-runtime-2.5.1-13 C:\Users\Kishan\.gradle\caches\transforms-3\63fa9ea6ebc47a109cd41806d7ef8fee\transformed\lifecycle-runtime-2.5.1\res
+com.example.dogglers.app-constraintlayout-2.1.4-14 C:\Users\Kishan\.gradle\caches\transforms-3\6542abe795ea73acdffa92e84e18b819\transformed\constraintlayout-2.1.4\res
+com.example.dogglers.app-jetified-lifecycle-process-2.4.1-15 C:\Users\Kishan\.gradle\caches\transforms-3\68c6c815de5c6800885505a6a76c33fd\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.dogglers.app-jetified-savedstate-ktx-1.2.0-16 C:\Users\Kishan\.gradle\caches\transforms-3\6a743540b41bfb534f0d02120221b551\transformed\jetified-savedstate-ktx-1.2.0\res
+com.example.dogglers.app-jetified-appcompat-resources-1.5.1-17 C:\Users\Kishan\.gradle\caches\transforms-3\6c8a1a16fbfe5c7b77c57da8a84bfb8e\transformed\jetified-appcompat-resources-1.5.1\res
+com.example.dogglers.app-lifecycle-livedata-core-2.5.1-18 C:\Users\Kishan\.gradle\caches\transforms-3\7a9de8ca92a33acade822fa6b1142560\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.dogglers.app-recyclerview-1.1.0-19 C:\Users\Kishan\.gradle\caches\transforms-3\8071415ea5e12f4c0a8f5150216fd2eb\transformed\recyclerview-1.1.0\res
+com.example.dogglers.app-coordinatorlayout-1.1.0-20 C:\Users\Kishan\.gradle\caches\transforms-3\9f5620e7c59eb8eeaa5c4b63add3767a\transformed\coordinatorlayout-1.1.0\res
+com.example.dogglers.app-jetified-annotation-experimental-1.3.0-21 C:\Users\Kishan\.gradle\caches\transforms-3\a97dc76802cae6ac55763bc22d834899\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.dogglers.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-22 C:\Users\Kishan\.gradle\caches\transforms-3\ba5f89495fa6ab477528ba0dff8a3df5\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.dogglers.app-media-1.0.0-23 C:\Users\Kishan\.gradle\caches\transforms-3\c024d9e197ca8499175776e588c37c02\transformed\media-1.0.0\res
+com.example.dogglers.app-jetified-startup-runtime-1.1.1-24 C:\Users\Kishan\.gradle\caches\transforms-3\d1908450e219ba60f77469cc8d3af961\transformed\jetified-startup-runtime-1.1.1\res
+com.example.dogglers.app-jetified-emoji2-1.2.0-25 C:\Users\Kishan\.gradle\caches\transforms-3\d90c6f602d0a09b611c4928cd58313fc\transformed\jetified-emoji2-1.2.0\res
+com.example.dogglers.app-jetified-fragment-ktx-1.5.3-26 C:\Users\Kishan\.gradle\caches\transforms-3\d96b2dcb179e7cbb05ddac82db0891c7\transformed\jetified-fragment-ktx-1.5.3\res
+com.example.dogglers.app-appcompat-1.5.1-27 C:\Users\Kishan\.gradle\caches\transforms-3\dd32123da54778ba08085c1e2e50f14d\transformed\appcompat-1.5.1\res
+com.example.dogglers.app-jetified-activity-ktx-1.5.1-28 C:\Users\Kishan\.gradle\caches\transforms-3\e890ea70eea657465077525ebf253b20\transformed\jetified-activity-ktx-1.5.1\res
+com.example.dogglers.app-jetified-lifecycle-viewmodel-ktx-2.5.1-29 C:\Users\Kishan\.gradle\caches\transforms-3\f34711429fd159c8ff7e176aae944018\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\res
+com.example.dogglers.app-jetified-core-ktx-1.9.0-30 C:\Users\Kishan\.gradle\caches\transforms-3\fc798e56480ecd00bee99e1696c0a915\transformed\jetified-core-ktx-1.9.0\res
+com.example.dogglers.app-core-1.9.0-31 C:\Users\Kishan\.gradle\caches\transforms-3\fd03d755c9da0dc503d7339f4336957f\transformed\core-1.9.0\res
+com.example.dogglers.app-pngs-32 D:\Kotlin App Development\DogglersApp\app\build\generated\res\pngs\debug
+com.example.dogglers.app-resValues-33 D:\Kotlin App Development\DogglersApp\app\build\generated\res\resValues\debug
+com.example.dogglers.app-rs-34 D:\Kotlin App Development\DogglersApp\app\build\generated\res\rs\debug
+com.example.dogglers.app-mergeDebugResources-35 D:\Kotlin App Development\DogglersApp\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.dogglers.app-mergeDebugResources-36 D:\Kotlin App Development\DogglersApp\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.dogglers.app-merged_res-37 D:\Kotlin App Development\DogglersApp\app\build\intermediates\merged_res\debug
+com.example.dogglers.app-debug-38 D:\Kotlin App Development\DogglersApp\app\src\debug\res
+com.example.dogglers.app-main-39 D:\Kotlin App Development\DogglersApp\app\src\main\res
